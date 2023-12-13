@@ -1,0 +1,19 @@
+body, nav{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color: cadetblue;
+}
+text-title{
+    font-size: 18 !important;
+}
+.btn{
+    color: aquamarine;
+}
+testi{
+    background-color: azure;
+}
+footer{
+    background-color: beige;
+}
